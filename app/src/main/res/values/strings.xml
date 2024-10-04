@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Motoins tosts Kotlin</string>
+    <string name="failed">"Failed ☹️ "</string>
+</resources>
